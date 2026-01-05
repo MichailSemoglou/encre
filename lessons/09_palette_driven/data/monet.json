@@ -1,0 +1,44 @@
+{
+  "artist": "claude-monet",
+  "artist_display": "Claude Monet",
+  "colors": [
+    [142, 178, 197],
+    [89, 112, 95],
+    [216, 191, 161],
+    [78, 91, 110],
+    [168, 147, 120]
+  ],
+  "named_colors": [
+    {
+      "rgb": [142, 178, 197],
+      "hex": "#8eb2c5",
+      "name": "Cerulean Blue",
+      "family": "blue"
+    },
+    {
+      "rgb": [89, 112, 95],
+      "hex": "#59705f",
+      "name": "Sage Green",
+      "family": "green"
+    },
+    {
+      "rgb": [216, 191, 161],
+      "hex": "#d8bfa1",
+      "name": "Naples Yellow",
+      "family": "yellow"
+    },
+    {
+      "rgb": [78, 91, 110],
+      "hex": "#4e5b6e",
+      "name": "Payne's Gray",
+      "family": "gray"
+    },
+    {
+      "rgb": [168, 147, 120],
+      "hex": "#a89378",
+      "name": "Raw Umber",
+      "family": "brown"
+    }
+  ],
+  "note": "Sample palette - replace with actual renoir export for full accuracy"
+}

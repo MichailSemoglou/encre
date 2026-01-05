@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+.venv/
+ENV/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Processing
+*.pde~
+applet/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Generated files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.tif
+*.tiff
+*.mov
+*.mp4
+!assets/images/*
+
+# Large data files
+*.zip
+*.tar.gz
+
+# Temporary
+tmp/
+temp/
+
+# MediaPipe models
+*.task
