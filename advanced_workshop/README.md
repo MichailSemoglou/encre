@@ -41,9 +41,9 @@ Create art using ML-inspired techniques:
 - Edge-based artistic rendering
 - Impressionist brushstroke simulation
 - Pointillist effects (Seurat-style)
-- Abstract expressionism
+- Abstract expressionism (action painting with drips & splatters)
 - Neural texture synthesis
-- Deep dream-style visualization
+- Pop Art (Warhol-style posterization)
 
 ### Day 4: Text & Gesture Art
 **File:** `day4_text_gesture/text_and_gesture_py5.py`
