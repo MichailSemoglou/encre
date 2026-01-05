@@ -10,9 +10,9 @@ The `renoir` package provides analytical tools for studying art through color. T
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│                        PYTHON ENVIRONMENT                        │
+│                        PYTHON ENVIRONMENT                       │
 │                                                                 │
-│   renoir (analysis)  ──►  JSON export  ──►  assets/palettes/   │
+│   renoir (analysis)  ──►  JSON export  ──►  assets/palettes/    │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
                               │
@@ -20,7 +20,7 @@ The `renoir` package provides analytical tools for studying art through color. T
 ┌─────────────────────────────────────────────────────────────────┐
 │                     PROCESSING.PY ENVIRONMENT                   │
 │                                                                 │
-│   Load JSON  ──►  Convert to colors  ──►  Generative output    │
+│   Load JSON  ──►  Convert to colors  ──►  Generative output     │
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 ```
@@ -290,7 +290,7 @@ Comprehensive artist analysis.
 {
   "artist_id": "claude-monet",
   "total_works": 1342,
-  "genres": {"landscape": 45, "portrait": 12},
+  "genres": { "landscape": 45, "portrait": 12 },
   "color_statistics": {
     "average_saturation": 42.5,
     "average_brightness": 68.3,
@@ -320,7 +320,7 @@ Color harmony patterns.
 ```json
 {
   "artist_id": "claude-monet",
-  "harmony_preferences": {"analogous": 15, "complementary": 8},
+  "harmony_preferences": { "analogous": 15, "complementary": 8 },
   "average_harmony_score": 0.72
 }
 ```
@@ -410,14 +410,14 @@ def setup():
 
 ## Connecting Concepts
 
-| Renoir Course | Processing Course |
-|---------------|-------------------|
-| K-means clustering | Palette-driven particle colors |
-| HSV color space | `colorMode(HSB)` for natural selection |
-| Color temperature | Warm/cool directional mapping |
-| Harmony detection | Harmonious generative compositions |
-| Artist signatures | Style-specific generative systems |
-| Temporal analysis | Animated historical visualizations |
+| Renoir Course      | Processing Course                      |
+| ------------------ | -------------------------------------- |
+| K-means clustering | Palette-driven particle colors         |
+| HSV color space    | `colorMode(HSB)` for natural selection |
+| Color temperature  | Warm/cool directional mapping          |
+| Harmony detection  | Harmonious generative compositions     |
+| Artist signatures  | Style-specific generative systems      |
+| Temporal analysis  | Animated historical visualizations     |
 
 ## Example: Complete Integration
 

@@ -196,8 +196,8 @@ Lesson 17: Develop a cohesive series of 3-5 generative artworks inspired by a ch
 
 ## Author
 
-**Michail Semoglou**
-College of Design and Innovation, Tongji University
+**Michail Semoglou**<br>
+College of Design and Innovation, Tongji University<br>
 m.semoglou@tongji.edu.cn
 
 ## License

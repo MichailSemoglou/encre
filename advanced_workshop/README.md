@@ -15,18 +15,22 @@ pip install mediapipe  # Requires Python 3.9-3.11
 ## Workshop Structure
 
 ### Day 1: Computer Vision & Face Detection
+
 **File:** `day1_face_detection/face_detection_py5.py`
 
 Learn to integrate OpenCV face detection with py5 for interactive art:
+
 - Webcam capture and processing
 - Haar cascade classifiers
 - Face and eye detection
 - 5 visualization modes (Mirror, Particle Aura, Face Mesh, Abstract Portrait, Emotion Colors)
 
 ### Day 2: Real-time Video Processing
+
 **File:** `day2_video_processing/video_processing_py5.py`
 
 Explore advanced video manipulation techniques:
+
 - Optical flow calculation
 - Motion detection and trails
 - Slit-scan photography
@@ -35,9 +39,11 @@ Explore advanced video manipulation techniques:
 - Time displacement
 
 ### Day 3: Machine Learning Art
+
 **File:** `day3_ml_art/ml_style_transfer_py5.py`
 
 Create art using ML-inspired techniques:
+
 - Edge-based artistic rendering
 - Impressionist brushstroke simulation
 - Pointillist effects (Seurat-style)
@@ -46,9 +52,11 @@ Create art using ML-inspired techniques:
 - Pop Art (Warhol-style posterization)
 
 ### Day 4: Text & Gesture Art
+
 **File:** `day4_text_gesture/text_and_gesture_py5.py`
 
 Create interactive typography using Project Gutenberg texts:
+
 - Fetch literary texts from Project Gutenberg
 - Hand/gesture tracking (MediaPipe or motion detection)
 - Finger trail typography
@@ -58,9 +66,11 @@ Create interactive typography using Project Gutenberg texts:
 - Poetry flow fields
 
 ### Day 5: Multi-modal Installation Art
+
 **File:** `day5_installation/installation_art_py5.py`
 
 Combine all techniques for installation art:
+
 - Presence Field (face-reactive ripples)
 - Motion Painting (gesture-based art)
 - Face Garden (organic growth)
@@ -69,9 +79,11 @@ Combine all techniques for installation art:
 - Full Installation (all layers combined)
 
 ### Day 6: Physics-Based Generative Art
+
 **File:** `day6_physics_simulation/physics_simulation_py5.py`
 
 Explore Newton's Laws of Motion for dynamic simulations:
+
 - Newton's 1st Law (Inertia): Objects maintain their state of motion
 - Newton's 2nd Law (F=ma): Force equals mass times acceleration
 - Newton's 3rd Law (Action-Reaction): Equal and opposite forces
@@ -94,12 +106,12 @@ python day6_physics_simulation/physics_simulation_py5.py
 
 ## Common Controls
 
-| Key | Action |
-|-----|--------|
-| 1-6 | Switch visualization modes |
-| s | Save screenshot |
-| q | Quit |
-| Mouse | Interactive control |
+| Key   | Action                     |
+| ----- | -------------------------- |
+| 1-6   | Switch visualization modes |
+| s     | Save screenshot            |
+| q     | Quit                       |
+| Mouse | Interactive control        |
 
 ## Hardware Requirements
 
