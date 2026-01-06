@@ -1,0 +1,42 @@
+{
+  "title": "Encre: Generative Art with Processing.py",
+  "description": "Encre (French for 'ink') is a 17-lesson intermediate/advanced course in creative coding and generative art using Processing.py (Python mode). This course builds upon the color analysis foundations from the renoir course, transforming analytical skills into generative visual outputs. Students learn to create interactive visualizations, particle systems, flow fields, and artwork inspired by art historical movements. The curriculum includes an advanced 6-day workshop covering computer vision, machine learning art, text and gesture recognition, physics simulations, and installation art.",
+  "creators": [
+    {
+      "name": "Semoglou, Michail",
+      "affiliation": "College of Design and Innovation, Tongji University",
+      "orcid": "0009-0003-3268-5657"
+    }
+  ],
+  "keywords": [
+    "creative coding",
+    "generative art",
+    "Processing",
+    "Python",
+    "computational art",
+    "art education",
+    "interactive art",
+    "particle systems",
+    "flow fields",
+    "computer vision",
+    "machine learning",
+    "physics simulation"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/MichailSemoglou/renoir",
+      "relation": "isPartOf",
+      "resource_type": "software",
+      "scheme": "url"
+    }
+  ],
+  "communities": [
+    {
+      "identifier": "creative-coding"
+    }
+  ],
+  "notes": "This course is designed as a companion to the 'renoir' color analysis course. Students should complete renoir or have equivalent knowledge before starting encre."
+}

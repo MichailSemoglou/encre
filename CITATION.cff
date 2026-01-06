@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Encre: Generative Art with Processing.py"
+message: "If you use this software, please cite it as below."
+type: software
+authors:
+  - family-names: "Semoglou"
+    given-names: "Michail"
+    email: "m.semoglou@tongji.edu.cn"
+    affiliation: "College of Design and Innovation, Tongji University"
+    orcid: "https://orcid.org/0009-0003-3268-5657"
+repository-code: "https://github.com/MichailSemoglou/encre"
+url: "https://github.com/MichailSemoglou/encre"
+abstract: >-
+  Encre (French for "ink") is a 17-lesson intermediate/advanced course 
+  in creative coding and generative art using Processing.py (Python mode). 
+  This course builds upon the color analysis foundations from the renoir 
+  course, transforming analytical skills into generative visual outputs. 
+  Students learn to create interactive visualizations, particle systems, 
+  flow fields, and artwork inspired by art historical movements. The 
+  curriculum includes an advanced workshop covering computer vision, 
+  machine learning art, and physics simulations.
+keywords:
+  - creative coding
+  - generative art
+  - Processing
+  - Python
+  - computational art
+  - art education
+  - interactive art
+  - particle systems
+  - flow fields
+  - computer vision
+license: MIT
+version: "1.0.0"
+date-released: "2025-01-06"
