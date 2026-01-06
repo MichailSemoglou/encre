@@ -1,5 +1,7 @@
 # Encre: Generative Art with Processing.py
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18160393.svg)](https://doi.org/10.5281/zenodo.18160393)
+
 _Encre_ (French for "ink") is a 17-lesson intermediate/advanced course in creative coding and generative art using Processing.py (Python mode). This course builds upon the color analysis foundations from the [renoir](https://github.com/MichailSemoglou/renoir) course, transforming analytical skills into generative visual outputs.
 
 ## Prerequisites
